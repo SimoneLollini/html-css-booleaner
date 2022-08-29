@@ -9,3 +9,21 @@ header{
     margin-top: 60px;
     margin-left: 20px;
 }
+
+#autore,#data {
+    color: lightgrey;
+    font-size: 12px;
+}
+div > a{
+    text-decoration: none;
+    color: rgba(99, 158, 248, 1);
+}
+
+#photos>img{
+    height: 280px;
+
+}
+
+.photo-description{
+    font-size: 10px;
+}
