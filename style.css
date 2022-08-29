@@ -1,0 +1,11 @@
+header{
+    height: 100px;
+    background-image: url(./img/pattern.png);
+    background-color: rgba(99, 158, 248, 1);
+}
+
+#logo{
+    height: 30px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
