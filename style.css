@@ -63,3 +63,24 @@ tbody{
 #riga-b{
     background-color: white;
 }
+
+footer>div{
+    color: lightgrey;
+}
+#suggerimenti-1{
+    background-image: url(./img/graph.jpg);
+    width: 200px;
+    height: 160px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#suggerimenti-2{
+    background-image: url(./img/monitor.jpg);
+    width: 200px;
+    height: 160px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
