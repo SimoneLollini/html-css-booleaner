@@ -1,5 +1,4 @@
 header{
-    height: 100px;
     background-image: url(./img/pattern.png);
     background-color: rgba(99, 158, 248, 1);
 }
@@ -26,4 +25,37 @@ div > a{
 
 .photo-description{
     font-size: 10px;
+}
+
+section>p{
+    font-size: 12px;
+}
+
+ul{
+    font-size: 11px;
+    padding-left: 4px;
+    padding-top: 8px;
+}
+
+p>span{
+    background-color: yellow;
+}
+
+table{
+    font-size: 10px;
+}
+.riga1-2{
+    width: 25%;
+}
+
+table{
+    border-spacing: 0px;
+}
+
+thead{
+    background-color: rgba(81, 167, 224, 1);
+}
+
+tbody{
+    background-color: rgba(188, 228, 240, 1);
 }
