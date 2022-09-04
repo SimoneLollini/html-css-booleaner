@@ -1,73 +1,78 @@
-header{
+header {
     background-image: url(./img/pattern.png);
     background-color: rgba(99, 158, 248, 1);
+    background-size: 30%;
 }
 
-#logo{
+#logo {
     height: 30px;
     margin-top: 60px;
     margin-left: 20px;
 }
 
-#autore,#data {
+#autore,
+#data {
     color: lightgrey;
     font-size: 12px;
 }
-div > a{
+
+div>a {
     text-decoration: none;
     color: rgba(99, 158, 248, 1);
 }
 
-#photos>img{
+#photos>img {
     height: 280px;
 
 }
 
-.photo-description{
+.photo-description {
     font-size: 10px;
 }
 
-section>p{
+section>p {
     font-size: 12px;
 }
 
-ul{
+ul {
     font-size: 11px;
     padding-left: 4px;
     padding-top: 8px;
 }
 
-p>span{
+p>span {
     background-color: yellow;
 }
 
-table{
+table {
     font-size: 10px;
 }
-.riga1-2{
+
+.riga1-2 {
     width: 25%;
 }
 
-table{
+table {
     border-spacing: 0px;
 }
 
-thead{
+thead {
     background-color: rgba(81, 167, 224, 1);
 }
 
-tbody{
+tbody {
     background-color: rgba(188, 228, 240, 1);
 }
 
-#riga-b{
+#riga-b {
     background-color: white;
 }
 
-footer>div{
+footer>div {
     color: lightgrey;
 }
-#suggerimenti-1{
+
+#suggerimenti-1 {
     background-image: url(./img/graph.jpg);
     width: 200px;
     height: 160px;
@@ -76,7 +81,7 @@ footer>div{
     color: white;
 }
 
-#suggerimenti-2{
+#suggerimenti-2 {
     background-image: url(./img/monitor.jpg);
     width: 200px;
     height: 160px;
